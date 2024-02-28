@@ -1,2 +1,2 @@
-# amazon-cloned-
+# amazon-cloned
 this is a  Amazon cloned using HTML and CSS only....
